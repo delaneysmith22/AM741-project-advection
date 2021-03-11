@@ -8,6 +8,6 @@
 
 ## Authors
 
-- D-Dawg Smith
-- Yumyums
-- Douchebag
+- Brian Mao
+- Delaney Smith
+- Melissa Stadt
